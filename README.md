@@ -1,4 +1,5 @@
 📊 Sales Data Analysis Report
+
 This repository contains a Power BI Dashboard for Sales Data Analysis. The report provides key insights into sales performance, customer behavior, and business trends to support data-driven decision-making.
 
 🚀 Project Overview
