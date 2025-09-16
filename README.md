@@ -25,3 +25,6 @@ KPIs for tracking targets vs actuals
 Power BI Desktop → For data modeling and dashboard creation
 Data Source → (CSV, Excel)
 Data Transformation → Power Query & DAX
+
+📸 Screenshot & Preview
+Dashboard Preview ->https://github.com/IDOLIC4/Sales-Data-Analysis/blob/ba83fc185c7c17de997e02a2e3a1edb2d16e6557/Overall%20Report.png
